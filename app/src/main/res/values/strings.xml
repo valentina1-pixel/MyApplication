@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_massage">Selamat Datang!</string>
+    <string name="email">Masukkan Email</string>
+    <string name="password">Masukkan Password</string>
+    <string name="daftar">DAFTAR</string>
+</resources>
