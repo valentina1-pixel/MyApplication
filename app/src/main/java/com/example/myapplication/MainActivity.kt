@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         val etUsername: EditText = findViewById(R.id.et_username)
         val btnDaftar: Button = findViewById(R.id.btn_daftar)
+        val btnLogin: Button = findViewById(R.id.btn_login)
 
         btnDaftar.setOnClickListener {
             val username = etUsername.text.toString()
